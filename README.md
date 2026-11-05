@@ -16,3 +16,7 @@ Filo conduttore: **Domain → Requirements → Spec → Test → Agent → Verif
 | 8 | Context Engineering |
 | 9 | Skills, Subagent, Worktree, Superpowers, Ralph |
 | 10 | Verification & Evaluation-Driven Development |
+| 11 | Strategic DDD avanzato: Subdomains, Context Mapping e confini di integrazione |
+| 12 | Tactical DDD e Consistency Boundaries |
+| 13 | Agent-Native Software Delivery |
+| 14 | Secure Agent Engineering |
